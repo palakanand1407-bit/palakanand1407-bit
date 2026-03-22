@@ -1,6 +1,7 @@
 # Hi, I'm Palak Anand 👋
 
 🎓 B.Tech CSE (AI & ML) Student
+
 📊 Aspiring Data Scientist | 💻 Full Stack Developer
 
 ---
