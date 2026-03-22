@@ -17,7 +17,9 @@
 ## Tech Stack
 
 **Languages:** Python | SQL | JavaScript
+
 **Data Science:** Pandas | NumPy | Scikit-learn
+
 **Web Dev:** Node.js | Express | MongoDB
 
 ---
