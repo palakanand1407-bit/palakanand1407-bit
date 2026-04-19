@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE (AI & ML) Student
 
-📊 Aspiring Data Scientist | 💻 Full Stack Developer
+📊 Aspiring Data Scientist | 💻 Machine Learning
 
 ---
 
